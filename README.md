@@ -1,7 +1,9 @@
 # AI Sleep Story Generator
 
 A full-stack web application that generates personalized bedtime stories using AI to help users relax and fall asleep peacefully.
-![SleepApp](/sleep_story.png)
+
+
+![SleepApp](./frontend/assets/sleep_story.png)
 
 ## Features
 
