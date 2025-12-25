@@ -3,7 +3,7 @@
 A full-stack web application that generates personalized bedtime stories using AI to help users relax and fall asleep peacefully.
 
 
-![sleep_story.png](./frontend/assets/sleep_story.png)
+![sleep_story.png](./frontend/src/assets/sleep_story.png)
 
 ## Features
 
