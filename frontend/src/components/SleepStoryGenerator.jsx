@@ -236,7 +236,7 @@ function SleepStoryGenerator() {
         <header className="dreamweaver-header">
           <div className="header-icons">
             <Moon className="moon-icon"/>
-            <h1 className="dreamweaver-title">Dreamweaver</h1>
+            <h1 className="dreamweaver-title">Moonlit Stories</h1>
             <Sparkles className="sparkle-icon"/>
           </div>
           <p className="dreamweaver-subtitle">Where AI meets the healing power of sleep</p>
