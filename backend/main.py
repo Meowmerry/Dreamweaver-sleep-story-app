@@ -17,7 +17,7 @@ app.add_middleware(
         "http://localhost:3000",
         "http://localhost:5173",
         "http://localhost:5174",
-        "https://dreamweaver-sleep-story-app-vcrz.vercel.app",
+        "https://moonlit-stories-vcrz.vercel.app/",
         "https://*.vercel.app"
     ],
     allow_credentials=True,
